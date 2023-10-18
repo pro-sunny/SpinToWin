@@ -186,3 +186,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _caption: {fileID: 4444682018496716240}
+  _flashColor: {r: 1, g: 0.5647059, b: 0, a: 1}
+  _flashDuration: 0.5

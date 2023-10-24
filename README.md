@@ -1,0 +1,3 @@
+# SpinToWin
+
+Work in progress
